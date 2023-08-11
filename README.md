@@ -1,6 +1,6 @@
 # Python Data Visualization Exercises
 
-## Intro/Description
+### Intro/Description
  These exercises are intended to show foundational knowledge of Python data visualization using pandas and matplotlib. The following items are covered in the examples:
 * Line Graph
 * Bar Graph
