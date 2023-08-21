@@ -6,7 +6,7 @@
 
 # import data
 import pandas as pd
-salesdata = pd.read_csv('/Users/nklpu/OneDrive/Desktop/Python Data Vis/company_sales_data.csv')
+salesdata = pd.read_csv('DATA.csv')
 
 # verify data imported correctly
 salesdata
